@@ -48,7 +48,7 @@ scikit-learn==1.0.2
 smmap==5.0.0
 soupsieve==2.4.1
 SQLAlchemy==2.0.19
-streamlit==1.25.0
+streamlit==1.23.1
 tenacity==8.2.2
 toml==0.10.2
 toolz==0.12.0
